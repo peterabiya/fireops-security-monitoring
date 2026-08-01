@@ -119,22 +119,23 @@ The screenshots below were extracted from the original project documentation and
 
 | | |
 |---|---|
-| ![](screenshots/screenshot-01.png) | ![](screenshots/screenshot-02.png) |
-| ![](screenshots/screenshot-03.png) | ![](screenshots/screenshot-04.png) |
-| ![](screenshots/screenshot-05.png) | ![](screenshots/screenshot-06.png) |
-| ![](screenshots/screenshot-07.png) | ![](screenshots/screenshot-08.png) |
-| ![](screenshots/screenshot-09.png) | ![](screenshots/screenshot-10.png) |
-| ![](screenshots/screenshot-11.png) | ![](screenshots/screenshot-12.png) |
-| ![](screenshots/screenshot-13.png) | ![](screenshots/screenshot-14.png) |
-| ![](screenshots/screenshot-15.png) | ![](screenshots/screenshot-16.png) |
-| ![](screenshots/screenshot-17.png) | ![](screenshots/screenshot-18.png) |
-| ![](screenshots/screenshot-19.png) | ![](screenshots/screenshot-20.png) |
-| ![](screenshots/screenshot-21.png) | ![](screenshots/screenshot-22.png) |
-| ![](screenshots/screenshot-23.png) | ![](screenshots/screenshot-24.png) |
-| ![](screenshots/screenshot-25.png) | ![](screenshots/screenshot-26.png) |
-| ![](screenshots/screenshot-27.png) | ![](screenshots/screenshot-28.png) |
-| ![](screenshots/screenshot-29.png) | ![](screenshots/screenshot-30.png) |
-| ![](screenshots/screenshot-31.png) | |
+| ![](screenshots/Architecture-Diagram.PNG) | ![](screenshots/Screenshot%201.png) |
+| ![](screenshots/Screenshot%202.png) | ![](screenshots/Screenshot%203.png) |
+| ![](screenshots/Screenshot%204.png) | ![](screenshots/Screenshot%205.png) |
+| ![](screenshots/Screenshot%206.png) | ![](screenshots/Screenshot%207.png) |
+| ![](screenshots/Screenshot%208.png) | ![](screenshots/Screenshot%209.png) |
+| ![](screenshots/Screenshot%2010.png) | ![](screenshots/Screenshot%2011.png) |
+| ![](screenshots/Screenshot%2012.png) | ![](screenshots/Screenshot%2013.png) |
+| ![](screenshots/Screenshot%2014.png) | ![](screenshots/Screenshot%2015.png) |
+| ![](screenshots/Screenshot%2016.png) | ![](screenshots/Screenshot%2017.png) |
+| ![](screenshots/Screenshot%2018.png) | ![](screenshots/Screenshot%2019.png) |
+| ![](screenshots/Screenshot%2020.png) | ![](screenshots/Screenshot%2021.png) |
+| ![](screenshots/Screenshot%2022.png) | ![](screenshots/Screenshot%2023.png) |
+| ![](screenshots/Screenshot%2024.png) | ![](screenshots/Screenshot%2025.png) |
+| ![](screenshots/Screenshot%2026.png) | ![](screenshots/Screenshot%2027.png) |
+| ![](screenshots/Screenshot%2028.png) | ![](screenshots/Screenshot%2029.png) |
+| ![](screenshots/Screenshot%2030.png) | |
+
 
 > **Note:** These screenshots are presented in the same order as they appear in the original project documentation.
 
